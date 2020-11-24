@@ -17,7 +17,7 @@ int main(){
  cout<<"\n after subtractiong you got "<<(a-b);
 
 //multiplication
-cout<<"after multiplying "<<(a*b);
+cout<<"\n after multiplying "<<(a*b);
 
 
 return 0;
