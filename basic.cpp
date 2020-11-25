@@ -19,6 +19,9 @@ int main(){
 //multiplication
 cout<<"\n after multiplying "<<(a*b);
 
+//something new after uploading on github
+cout<<"\n thi sis after uploding to github";
+
 
 return 0;
 }
